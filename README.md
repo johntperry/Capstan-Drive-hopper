@@ -20,4 +20,6 @@ When it comes to building robots a Capstan Drive can be quite beneficial. This t
 
 ![Test Stand5](https://github.com/aaedmusa/Capstan-Drive/assets/84678990/755a0795-405a-420f-a3f5-377bb0f73ea9)
 
+# Attribution
 
+Credit to Aaed Musa.
