@@ -30,3 +30,17 @@
 # Solidworks ownership lock and recovery pointers
 ~$*.sld*
 ~$*.sd*
+
+# Microsoft Office Temporary & Lock Files
+~$*.doc*
+~$*.dot*
+~$*.xls*
+~$*.xlsx*
+~$*.ppt*
+~$*.vsd*
+*.~vsd*
+
+# Office Backup & Auto-Save Files
+*.tmp
+*.xlk
+Backup of *.doc*
