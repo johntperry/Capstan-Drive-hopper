@@ -15,8 +15,6 @@
 *.STG
 
 # Common 3D file types - MAY CHOOSE TO CHANGE AND ADD STEP FILES TO GIT, ONCE THE PROJECT IS FINISHED OR AT A SIGNIFICANT MILESTONE
-*.step
-*.stp
 *.iges
 *.igs
 *.stl
